@@ -18,7 +18,7 @@ Here is an [image](42B11AD1-4A12-43D4-B500-C2206E5431CC.jpeg) of this figure.
 
 ### *Google Ad code*
 
-Here is a [sample code](GoogleCode.md) on creating keyword combinations between two lists.
+Here is a [sample code](Code3.md) on creating keyword combinations between two lists.
 
 ## Contact Info
 Email:
