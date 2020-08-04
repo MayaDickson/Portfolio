@@ -10,8 +10,6 @@ Here is a [sample code](DisneyCode.md) on sorting through movies based on their 
 
 Here is an [image](B1BC35A8-5225-4B03-9421-04E3804811B1.jpeg) of the top 10 movies.
 
-Here is a [sample code](Disney2.md) on sorting through movies based on their box office sales.
-
 ### *Super Bowl code*
 
 #### Sample 1
