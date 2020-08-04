@@ -19,6 +19,7 @@ Here is a [sample code](SB2.md) that uses a comparison operator to select and di
 #### Sample 2
 
 Here is a [sample code](SB_code.md) on creating a line subplot figure.
+Here is a [sample code](Disney2.md) on creating a line subplot figure.
 
 Here is an [image](42B11AD1-4A12-43D4-B500-C2206E5431CC.jpeg) of this figure.
 
