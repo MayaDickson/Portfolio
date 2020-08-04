@@ -10,7 +10,7 @@ Here is a [sample](Disney_code.md) on sorting through movies based on their box 
 
 ### *Super Bowl code*
 
-Here is a [sample](SuperBowl_code.md) on creating a line plot with subplots.
+Here is a [sample](SB_code.md) on creating a line plot with subplots.
 
 ## Contact me
 Email:
