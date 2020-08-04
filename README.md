@@ -12,7 +12,7 @@ Here is a [sample code](DisneyC.md) on sorting through movies based on their box
 
 #### Sample 1
 
-Here is a [sample code](SB2.md) that uses a comparison operator to select and display certain Super Bowl games.
+Here is a [sample code](SuB.md) that uses a comparison operator to select and display certain Super Bowl games.
 
 #### Sample 2
 
