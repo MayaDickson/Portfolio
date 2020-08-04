@@ -16,6 +16,10 @@ Here is a [sample code](SB_code.md) on creating a line subplot figure.
 
 Here is an [image](42B11AD1-4A12-43D4-B500-C2206E5431CC.jpeg) of this figure.
 
+### *Google Ad code*
+
+Here is a [sample code](Google_code.md) on creating keyword combinations between two lists.
+
 ## Contact Info
 Email:
 [my506511@dal.ca](mailto:my506511@dal.ca)
