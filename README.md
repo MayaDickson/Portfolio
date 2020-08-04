@@ -6,11 +6,12 @@ Hello, my name is Maya. I am a 3rd year Nueroscience student at Dalhousie Univer
 ## Coding Work
 ### *Disney code*
 
-Here is a [sample](Disney_code.md) on sorting through movies based on their box office sales.
+Here is a [sample code](Disney_code.md) on sorting through movies based on their box office sales.
 
 ### *Super Bowl code*
 
-Here is a [sample](SB_code.md) on creating a line plot with subplots.
+Here is a [sample code](SB_code.md) on creating a line subplot figure.
+Here is an [image](42B11AD1-4A12-43D4-B500-C2206E5431CC.jpeg) of this figure.
 
 ## Contact me
 Email:
