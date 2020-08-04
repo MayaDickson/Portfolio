@@ -6,7 +6,7 @@ Hello, my name is Maya. I am a 3rd year Nueroscience student at Dalhousie Univer
 ## Projects
 ### *Disney code*
 
-Here is a [sample code](DisneyCode.md) on sorting through movies based on their box office sales.
+Here is a [sample code](Disney2.md) on sorting through movies based on their box office sales.
 
 Here is an [image](B1BC35A8-5225-4B03-9421-04E3804811B1.jpeg) of the top 10 movies.
 
