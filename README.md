@@ -28,10 +28,11 @@ Here is a [sample code](Code3.md) on creating keyword combinations between two l
 
 #### Sample 1
 
+Here is a [sample code](A3_H.md) on creating a histogram.
 
 #### Sample 2
 
-
+Here is a [sample code](A3_H2.md) on transforming a histogram.
 
 ## Contact Info
 Email:
