@@ -24,6 +24,15 @@ Here is an [image](42B11AD1-4A12-43D4-B500-C2206E5431CC.jpeg) of this figure.
 
 Here is a [sample code](Code3.md) on creating keyword combinations between two lists.
 
+### *Flanker-Simon code*
+
+#### Sample 1
+
+
+#### Sample 2
+
+
+
 ## Contact Info
 Email:
 [my506511@dal.ca](mailto:my506511@dal.ca)
