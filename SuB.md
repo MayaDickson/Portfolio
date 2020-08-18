@@ -8,7 +8,7 @@ This is done by:
 2. Reading the super bowl file into super_bowls
 3. Displaying the super bowl data that has
     1. Combined points greater than 70
-    2. Combined points less than 70
+    2. Combined points less than 25
 
 
 ```python
