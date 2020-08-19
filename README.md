@@ -34,6 +34,11 @@ Here is a [sample code](A3_H.md) on creating a histogram.
 
 Here is a [sample code](A3_H2.md) on transforming a histogram.
 
+
+### Demo
+
+Here is a [demo](DemoEX.md)
+
 ## Contact Info
 Email:
 [my506511@dal.ca](mailto:my506511@dal.ca)
