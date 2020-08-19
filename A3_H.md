@@ -4,6 +4,7 @@
 
 
 This sample shows how to make a histogram based on the original reaction time (rt) of the subject. This is done by:
+
 1) Calling a histogram plot on the RT column of the dataframe
 2) Adding descriptive stats to the graph
     1. Adding dashed lines at the 25th and 75th percentiles
