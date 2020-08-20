@@ -36,9 +36,9 @@ Here is a [sample code](A3_H2.md) on transforming a histogram.
 
 ## Demos
 
-https://web.microsoftstream.com/video/cd782b61-2938-41ad-896f-1af8ef61b659?channelId=f46c0857-931c-41ab-99a8-cb2276aff333 
+[![watch video here](https://web.microsoftstream.com/video/cd782b61-2938-41ad-896f-1af8ef61b659?channelId=f46c0857-931c-41ab-99a8-cb2276aff333/maxresdefault.jpg)](https://web.microsoftstream.com/video/cd782b61-2938-41ad-896f-1af8ef61b659?channelId=f46c0857-931c-41ab-99a8-cb2276aff333) 
 
-https://web.microsoftstream.com/video/1b93f2a5-211e-480a-83ba-f95f6ae691b7?list=studio 
+[![watch video here](https://web.microsoftstream.com/video/1b93f2a5-211e-480a-83ba-f95f6ae691b7?list=studio/maxresdefault.jpg)](https://web.microsoftstream.com/video/1b93f2a5-211e-480a-83ba-f95f6ae691b7?list=studio)
 
 ## Contact Info
 Email:
