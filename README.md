@@ -36,7 +36,11 @@ Here is a [sample code](A3_H2.md) on transforming a histogram.
 
 ## Demos
 
+This demo was created to show how you can take a DataCamp project notebook and download it onto CoCalc. This video also shows how you can download a Jupyter notebook, from Cocalc, onto a Github repository.
+
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/1b93f2a5-211e-480a-83ba-f95f6ae691b7?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+
+This demo was created to show how you can download visual coding and images, from CoCalc, onto a Github repository.
 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/cd782b61-2938-41ad-896f-1af8ef61b659?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
