@@ -8,6 +8,28 @@ Hello, my name is Maya. I am a 3rd year Nueroscience student at Dalhousie Univer
 
 Here is a [sample code](DisneyC.md) on sorting through movies based on their box office sales.
 
+### *Flanker-Simon code*
+
+#### Assignment 2
+
+*Sample 1*
+
+Here are [3 different ways](A2_stat1.md) to perform descriptive statistics.
+
+*Sample 2*
+
+
+
+#### Assignment 3
+
+*Sample 1*
+
+Here is a [sample code](A3_H.md) on creating a histogram.
+
+*Sample 2*
+
+Here is a [sample code](A3_H2.md) on transforming a histogram.
+
 ### *Super Bowl code*
 
 #### Sample 1
@@ -23,22 +45,6 @@ Here is an [image](42B11AD1-4A12-43D4-B500-C2206E5431CC.jpeg) of this figure.
 ### *Google Ad code*
 
 Here is a [sample code](Code3.md) on creating keyword combinations between two lists.
-
-### *Flanker-Simon code*
-
-#### Assignment 2
-
-Here are [3 samples](A2_stat1.md) on different ways of performing descriptive statistics.
-
-#### Assignment 3
-
-*Sample 1*
-
-Here is a [sample code](A3_H.md) on creating a histogram.
-
-*Sample 2*
-
-Here is a [sample code](A3_H2.md) on transforming a histogram.
 
 ## Demos
 
