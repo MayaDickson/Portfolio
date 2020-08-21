@@ -22,7 +22,7 @@ Here is a [sample code](A2_np.md) on making and manipulating a NumPy array.
 
 *Sample 3*
 
-Here is a sample code on creating a 2D NumPy array.
+Here is a [sample code](A2_np2.md) on creating a 2D NumPy array and calculating an error rate.
 
 #### Assignment 3:
 
