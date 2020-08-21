@@ -28,6 +28,8 @@ Here is a [sample code](Code3.md) on creating keyword combinations between two l
 
 #### Assignment 2
 
+Here are [3 samples](A2_stat1.md) on different ways of performing descriptive statistics.
+
 #### Assignment 3
 
 *Sample 1*
