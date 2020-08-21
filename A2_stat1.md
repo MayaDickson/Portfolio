@@ -1,5 +1,5 @@
 # Descriptive Statistics
-## Using .loc indexer to compute mean RT
+## Sample 1
 *This code determines the mean reaction time (RT) for the first 25 trails, in a Flanker-Simon study.*
 
 This is done by:
@@ -18,6 +18,7 @@ dat_rt.mean()
 405.6557296799999
 ```
 
+## Sample 2
 *This code determines the mean reaction time (RT) for the congruent flankers in the Flanker-Simon study. It also rounds the mean RT to the nearest thousandths place.*
 
 This is done by:
@@ -36,6 +37,7 @@ round(dat_congruent.mean(), 3)
 416.068
 ```
 
+## Sample 3
 *This code determines the mean reaction time (RT) for the incongruent flankers in the Flanker-Simon study. It also prints out text that makes it clear that the computed mean RT belongs to the incongruent flankers.*
 
 This is done by:
