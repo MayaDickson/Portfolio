@@ -3,7 +3,9 @@
 *This code creates a histogram based on the reaction times of a single subject, across 48 trials, in a flanker-Simon study.*
 
 
-This sample shows how to make a histogram based on the original reaction time (rt) of the subject. This is done by:
+This sample shows how to make a histogram based on the original reaction time (rt) of the subject. 
+
+This is done by:
 
 1) Calling a histogram plot on the RT column of the dataframe
 2) Adding descriptive stats to the graph
