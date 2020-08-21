@@ -18,7 +18,11 @@ Here are [3 different ways](A2_stat1.md) to perform descriptive statistics.
 
 *Sample 2*
 
+Here is a [sample code](A2_np.md) on making and manipulating a NumPy array.
 
+*Sample 3*
+
+Here is a sample code on creating a 2D NumPy array.
 
 #### Assignment 3:
 
