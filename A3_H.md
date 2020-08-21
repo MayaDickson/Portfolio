@@ -7,11 +7,11 @@ This sample shows how to make a histogram based on the original reaction time (r
 
 This is done by:
 
-1) Calling a histogram plot on the RT column of the dataframe
-2) Adding descriptive stats to the graph
+1. Calling a histogram plot on the RT column of the dataframe
+2. Adding descriptive stats to the graph
     1. Adding dashed lines at the 25th and 75th percentiles
     2. Adding a solid line at the median
-3) Calling show( ) to display the graph
+3. Calling show( ) to display the graph
 
 ```python
 plt.hist(df['rt'])
