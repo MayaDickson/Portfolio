@@ -10,7 +10,7 @@ Here is a [sample code](DisneyC.md) on sorting through movies based on their box
 
 ### *Flanker-Simon code*
 
-#### Assignment 2
+#### Assignment 2:
 
 *Sample 1*
 
@@ -20,7 +20,7 @@ Here are [3 different ways](A2_stat1.md) to perform descriptive statistics.
 
 
 
-#### Assignment 3
+#### Assignment 3:
 
 *Sample 1*
 
