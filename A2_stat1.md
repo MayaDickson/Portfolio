@@ -1,3 +1,6 @@
+<a href="https://mayadickson.github.io/Portfolio/">Home</a>
+
+
 # Descriptive Statistics
 ## Code 1
 *This code determines the mean reaction time (RT) for the first 25 trails, in a Flanker-Simon study.*
