@@ -12,25 +12,25 @@ Here is a [sample code](DisneyC.md) on sorting through movies based on their box
 
 #### Assignment 2:
 
-*Sample 1*
+***Sample 1***
 
 Here are [3 different ways](A2_stat1.md) to perform descriptive statistics.
 
-*Sample 2*
+***Sample 2***
 
 Here is a [sample code](A2_np.md) on making and manipulating a NumPy array.
 
-*Sample 3*
+***Sample 3***
 
 Here is a [sample code](A2_np2.md) on creating a 2D NumPy array and calculating an error rate.
 
 #### Assignment 3:
 
-*Sample 1*
+***Sample 1***
 
 Here is a [sample code](A3_H.md) on creating a histogram.
 
-*Sample 2*
+***Sample 2***
 
 Here is a [sample code](A3_H2.md) on transforming a histogram.
 
