@@ -1,4 +1,4 @@
-<a.herf="https://mayadickson.github.io/Portfolio/">Home</a>
+<a herf="https://mayadickson.github.io/Portfolio/">Home</a>
 
 
 # Top 10 Disney movies at the box office
