@@ -1,3 +1,6 @@
+<a href="https://mayadickson.github.io/Portfolio/">Home</a>
+
+
 # Creating and Manipulating a NumPy array
 ## Converting a list to a NumPy array
 *Takes a list of reaction times (rt) and makes it into a NumPy array. These rt values are given in seconds from a Flanker-Simon study.*
