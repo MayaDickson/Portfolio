@@ -34,6 +34,10 @@ Here is a [sample code](A3_H.md) on creating a histogram.
 
 Here is a [sample code](A3_H2.md) on transforming a histogram.
 
+### *Google Ad code*
+
+Here is a [sample code](Code3.md) on creating keyword combinations between two lists.
+
 ### *Super Bowl code*
 
 #### Sample 1
@@ -45,10 +49,6 @@ Here is a [sample code](SuB.md) that uses a comparison operator to select and di
 Here is a [sample code](SB_code.md) on creating a line subplot figure.
 
 Here is an [image](42B11AD1-4A12-43D4-B500-C2206E5431CC.jpeg) of this figure.
-
-### *Google Ad code*
-
-Here is a [sample code](Code3.md) on creating keyword combinations between two lists.
 
 ## Demos
 
