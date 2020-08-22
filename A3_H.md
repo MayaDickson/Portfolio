@@ -1,3 +1,6 @@
+<a href="https://mayadickson.github.io/Portfolio/">Home</a>
+
+
 # Exploratory Data Analysis
 ## Examining RT Distrubution
 *This code creates a histogram based on the reaction times of a single subject, across 48 trials, in a flanker-Simon study.*
