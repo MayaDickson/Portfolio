@@ -1,3 +1,6 @@
+<a href="https://mayadickson.github.io/Portfolio/">Home</a>
+
+
 # 2D NumPy array
 ## Creating the 2D NumPy array
 *Uses a list of reaction time (rt) and error (err) values from a Flanker-Simon study. The rt values are given in milliseconds and the err values are displayed as booleans. When err= True this means that the trail was an error.*
