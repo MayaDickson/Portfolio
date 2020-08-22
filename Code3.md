@@ -1,3 +1,6 @@
+<a href="https://mayadickson.github.io/Portfolio/">Home</a>
+
+
 # Keyword combinations for a Google ad
 ## Creating keywords that target price-sensitive customers
 *Pairs a word list, that targets price-sensitive customers, with products that a client wants to sell.*
