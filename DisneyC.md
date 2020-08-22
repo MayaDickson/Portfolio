@@ -1,3 +1,6 @@
+<a.herf="https://mayadickson.github.io/Portfolio/">Home</a>
+
+
 # Top 10 Disney movies at the box office
 ## Determines which 10 Disney movies earned the most at the box office
 *This uses a Disney data compiled by Kelley Garrett, which containes 579 Disney movies with 6 features: movie title, release date, genre, MPAA rating, total gross, and inflation-adjusted gross.*
