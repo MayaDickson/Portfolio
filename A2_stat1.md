@@ -61,3 +61,5 @@ print("Mean RT for incongruent flankers = " + str(dat_incongruent.mean()))
 ``` python
 Mean RT for incongruent flankers = 439.9507526916668
 ```
+
+<a href="https://mayadickson.github.io/Portfolio/A2_stat1.html">Back to Top</a>
